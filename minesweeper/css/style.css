@@ -116,11 +116,3 @@ footer svg {
         left: 100%;
     }
 }
-@media only screen and (max-width: 980px){
-    .card {
-        transform: scale(0.5);
-    }
-    .title {
-        transform: scale(0.5);
-    }
-}
